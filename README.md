@@ -7,4 +7,5 @@ Let's use video analysis to dissect every shot, advanced player tracking to unde
 This is where data meets dinking
 
 BenJohns/1/  Ben Johns 10 videos analysis.
+
 BenJohns/2/ One video analysis Comparing Ben Johns and others.
